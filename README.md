@@ -4,3 +4,4 @@
 1.<a href="https://leetcode.com/problems/palindrome-number/description/">Palindrome</a>
 2.<a href="https://leetcode.com/problems/armstrong-number/description/">Armstrong</a>
 3.<a href="https://leetcode.com/problems/defanging-an-ip-address/submissions/1192731103/"> Defanging an IP Address</a>
+4.<a href="https://leetcode.com/problems/smallest-even-multiple/">Smallest even multiple</a>
