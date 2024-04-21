@@ -6,3 +6,4 @@
 3.<a href="https://leetcode.com/problems/defanging-an-ip-address/submissions/1192731103/"> Defanging an IP Address</a>
 4.<a href="https://leetcode.com/problems/smallest-even-multiple/">Smallest even multiple</a>
 5.<a href="https://leetcode.com/problems/a-number-after-a-double-reversal/">Double reversal</a>
+6.<a href="https://leetcode.com/problems/harshad-number/">Harshad Number</a>
